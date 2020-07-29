@@ -1,0 +1,45 @@
+body {
+    background-image: url('https://images.unsplash.com/photo-1519455953755-af066f52f1a6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#jkAbout {
+    margin-bottom: 50px;
+}
+.aboutText {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    border: 5px solid darkslategray;
+    background-color: rgb(206,205,205,.6);
+    
+}
+.meImage {
+    width: 250px;
+    height: auto;
+}
+#jkProject {
+    margin-bottom: 50px;
+}
+.containerAbout {
+    text-align: left;
+}
+.card-body {
+    margin-bottom: 250px;
+}
+.icon-border {
+    margin: auto;
+}
+.finalText {
+    font-weight: bold;
+}
+.titleText {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    border: 5px solid darkslategray;
+    background-color: rgb(206,205,205,.6);
+    font-size: large;
+    font-weight: bolder;
+}

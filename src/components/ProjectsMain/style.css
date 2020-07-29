@@ -1,0 +1,17 @@
+.carouselText {
+    color: black;
+    background-color: rgb(206,205,205,.5);
+    padding: 10px 5px 5px 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-bottom: auto;
+    border: 5px solid darkslategray;
+}
+.d-block {
+
+    margin: auto;
+    
+    }
+.carousel-inner {
+    margin-bottom: 50px;
+}
